@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c4d92de634fd6642b34be0d85d3b46f, type: 3}
+  m_Name: DifficultySettings
+  m_EditorClassIdentifier: 
+  timeToIncreaseDifficulty: 3
+  asteroidBaseHealth: 1
+  asteroidHealthIncrease: 1
+  bossBaseHealth: 10
+  bossHealthIncrease: 5
